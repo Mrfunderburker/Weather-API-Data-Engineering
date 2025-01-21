@@ -47,7 +47,7 @@ At the minimum, however, you should be generating visualizations that explore th
     * Are these harvest outcomes similar to other regions in Brazil?  
     * Which region produces the most coffee (by sub-category) in Brazil?  
 * How has unemployment changed in the various coffee-producing regions of Brazil?  
-* How have weather outcomes changed for Minas Gerais throughout the years?  
+* How have weather outcomes changed for Minas Gerais throughout the years?
 * Does it seem that coffee harvest is dependent on weather? If so, which specific variable seems to "coffee" harvest. If not, which variable might appear to be correlated with harvest outcomes instead?   
 
 For each of these questions and subsequent visualizations, be sure to include a markdown block in your jupyter notebook explaining which trends you see.
